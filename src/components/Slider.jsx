@@ -275,7 +275,7 @@ export default function Slider() {
 
             <Space direction="vertical" size="large" style={{ width: "100%" }}>
               <Space wrap>
-                <Link href="/tryOn">
+                <Link href="/tryOnK">
                   <Button
                     type="primary"
                     size="large"
